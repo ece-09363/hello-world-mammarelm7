@@ -6,6 +6,6 @@
 1. Post a selfie
 ![alt text][selfie]
 
-[selfie]: IMG_20180129_125611.jpg
+[selfie]: mammarelli-pic.jpg
 
-2. Tell me something interesting about yourself
+2. I am the web designer for the chemical and mechanical enginering departments
